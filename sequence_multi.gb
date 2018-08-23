@@ -1,0 +1,539 @@
+LOCUS       JX178605                 700 bp    DNA     linear   PLN 27-JAN-2013
+DEFINITION  Cortinarius dulciolens voucher OTA:60170 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX178605
+VERSION     JX178605.1
+KEYWORDS    .
+SOURCE      Cortinarius dulciolens
+  ORGANISM  Cortinarius dulciolens
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Agaricomycetidae; Agaricales; Cortinariaceae;
+            Cortinarius.
+REFERENCE   1  (bases 1 to 700)
+  AUTHORS   Teasdale,S.E., Beulke,A.K., Guy,P.L. and Orlovich,D.A.
+  TITLE     Environmental barcoding of the ectomycorrhizal fungus Cortinarius
+  JOURNAL   Fungal Divers. 58 (1), 299-310 (2013)
+REFERENCE   2  (bases 1 to 700)
+  AUTHORS   Teasdale,S.E., Beulke,A.K., Guy,P.L. and Orlovich,D.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JUN-2012) Department of Botany, University of Otago,
+            PO Box 56, Dunedin 9054, New Zealand
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious Pro v. 6.5.3
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..700
+                     /organism="Cortinarius dulciolens"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="OTA:60170"
+                     /db_xref="taxon:160469"
+                     /tissue_type="basidiocarp"
+                     /country="New Zealand"
+                     /PCR_primers="fwd_name: ITS1F, fwd_seq:
+                     cttggtcatttagaggaagtaa, rev_name: ITS4, rev_seq:
+                     tcctccgcttattgatatgc"
+                     /note="authority: Cortinarius dulciolens E. Horak, M.M.
+                     Moser, Peintner & Vilgalys"
+     rRNA            <1..46
+                     /product="18S ribosomal RNA"
+     misc_RNA        47..287
+                     /product="internal transcribed spacer 1"
+     rRNA            288..445
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        446..660
+                     /product="internal transcribed spacer 2"
+     rRNA            661..>700
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 aagtcgtaac aaggtttccg taggtgaacc tgcggaagga tcattattga aataaacctg
+       61 atgagttgct gctggttctc tagggagcat gtgcacgctt gtcatcttta tatctccacc
+      121 tgtgcacttt gtgtagacct ggatatcttt ctgaatgccc tgcattcagg tttgaggatt
+      181 gactttgccg tctttcctta caattccggg cctatgtttt tcatattccc cataacccct
+      241 gtttatagaa tgtaatgaat gggcctttgt gcctataaat ctttatacaa ctttcagcaa
+      301 cggatctctt ggctctcgca tcgatgaaga acgcagcgaa atgcgataag taatgtgaat
+      361 tgcagaattc agtgaatcat cgaatctttg aacgcacctt gcgctccttg gtattccgag
+      421 gagcatgcct gtttgagtgt cattaatata tcaacctctt cagatttttg tttgtcgagt
+      481 gttggatgtg ggggtcttcc ttttgctggc ctttattact gaggtcagct cccctgaaat
+      541 gcattagcag aacattttgt tgactcgttc attggtgtga taactatcta cgctattgac
+      601 gtggaagcaa cccaagttca gcttctaaca gtctattgat ttggacaaaa ttctttatta
+      661 atgtgacctc aaatcaggta ggactacccg ctgaacttaa
+//
+
+LOCUS       NR_157914                682 bp    DNA     linear   PLN 08-AUG-2018
+DEFINITION  Cortinarius dulciolens PDD 68471 ITS region; from TYPE material.
+ACCESSION   NR_157914
+VERSION     NR_157914.1
+DBLINK      BioProject: PRJNA177353
+KEYWORDS    RefSeq.
+SOURCE      Cortinarius dulciolens
+  ORGANISM  Cortinarius dulciolens
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Agaricomycetidae; Agaricales; Cortinariaceae;
+            Cortinarius.
+REFERENCE   1  (bases 1 to 682)
+  CONSRTM   NCBI RefSeq Targeted Loci Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2018) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   2  (bases 1 to 682)
+  AUTHORS   Johnston,P.R. and Park,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-SEP-2012) Landcare Research, Private Bag 92170,
+            Auckland 1142, New Zealand
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence is identical to JX648592.
+FEATURES             Location/Qualifiers
+     source          1..682
+                     /organism="Cortinarius dulciolens"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PDD:68471"
+                     /type_material="holotype of Cortinarius dulciolens"
+                     /db_xref="taxon:160469"
+                     /country="New Zealand"
+                     /note="PCR_primers=fwd_name: ITS1F, rev_name: ITS4"
+     rRNA            <1..39
+                     /product="18S ribosomal RNA"
+     misc_RNA        40..282
+                     /product="internal transcribed spacer 1"
+     rRNA            283..440
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        441..643
+                     /product="internal transcribed spacer 2"
+     rRNA            644..>682
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 aacaaggttt ccgtaggtga acctgcggaa ggatcattat tgaaataaac ctgatgagtt
+       61 gctgctggtt ctctagggag catgtgcacg cttgtcatct ttatatctcc acctgtgcac
+      121 tttttgtagt cctggatatc tctctgaatg ctacctagca ttcaggtatg aggattgact
+      181 ttgtagtctc tccttgcatt tccaggccta tgttttttca tatacccatc ccctgtttat
+      241 agaatgtaat aaaatgggcc tttgtgccta taaaccttta tacaactttc agcaacggat
+      301 ctcttggctc tcgcatcgat gaagaacgca gcgaaatgcg ataagtaatg tgaattgcag
+      361 aattcagtga atcatcgaat ctttgaacgc accttgcgct ccttggtatt ccgaggagca
+      421 tgcctgtttg agtgtcatta atatatcaac ctcttcagat tttttgtttg tcgagtgttg
+      481 gacgtggggg ttcttttgct ggccttgagg tcagctcccc tgaaatgcat tagcagaaca
+      541 ttttgttaac ctgttcattg gtgtgataac tatctacgct attgacatgg agcaaccaag
+      601 ttcagcttcc aacagtccat tgatttggac aaatttttca ttaatgtgac ctcaaatcag
+      661 gtaggactac ccgctgaact ta
+//
+
+LOCUS       MH023299                 691 bp    DNA     linear   PLN 31-JUL-2018
+DEFINITION  Cortinarius dulciolens voucher OTA70444 small subunit ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and large subunit ribosomal RNA gene, partial sequence.
+ACCESSION   MH023299
+VERSION     MH023299.1
+KEYWORDS    .
+SOURCE      Cortinarius dulciolens
+  ORGANISM  Cortinarius dulciolens
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Agaricomycetidae; Agaricales; Cortinariaceae;
+            Cortinarius.
+REFERENCE   1  (bases 1 to 691)
+  AUTHORS   Nilsen,A.R., Brown,C.M., Summerfield,T.C. and Orlovich,D.A.
+  TITLE     Two new species of agaricoid Cortinarius from New Zealand
+  JOURNAL   Mycol. Prog. (2018) In press
+REFERENCE   2  (bases 1 to 691)
+  AUTHORS   Nilsen,A.R. and Orlovich,D.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-MAR-2018) Botany, University of Otago, PO Box 56,
+            Dunedin 9010, New Zealand
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..691
+                     /organism="Cortinarius dulciolens"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /specimen_voucher="OTA70444"
+                     /db_xref="taxon:160469"
+                     /country="New Zealand"
+                     /collection_date="02-May-2014"
+     misc_RNA        <1..>691
+                     /note="contains small subunit ribosomal RNA, internal
+                     transcribed spacer 1, 5.8S ribosomal RNA, internal
+                     transcribed spacer 2, and large subunit ribosomal RNA"
+ORIGIN      
+        1 aagtcgtaac aaggtttccg taggtgaacc tgcggaagga tcattattga aataaacctg
+       61 atgagttgct gctggttctc tagggagcat gtgcacgctt gtcatcttta tatctccacc
+      121 tgtgcacttt ctgtagtcct ggatatctct ctgaatgcta cctagcattc aggtatgagg
+      181 attgactttg tagtctctcc ttgcatttcc aggcctatgt tttttcatat acccatcccc
+      241 tgtttataga atgtaataaa atgggccttt gtgcctataa acctttatac aactttcagc
+      301 aacggatctc ttggctctcg catcgatgaa gaacgcagcg aaatgcgata agtaatgtga
+      361 attgcagaat tcagtgaatc atcgaatctt tgaacgcacc ttgcgctcct tggtattccg
+      421 aggagcatgc ctgtttgagt gtcattaata tatcaacctc ttcagatttt ttgtttgtcg
+      481 agtgttggac gtggggggtt cttttgctgg ccttgaggtc agctcccctg aaatgcatta
+      541 gcagaacatt ttgttaacct gttcattggt gtgataacta tctacgctat tgacatggag
+      601 caaccaagtt cagcttccaa cagtccattg atttggacaa atttttcatt aatgtgacct
+      661 caaatcaggt aggactaccc gctgtactta a
+//
+
+LOCUS       AF388814                 618 bp    DNA     linear   PLN 24-JUL-2016
+DEFINITION  Cortinarius dulciolens NZ8635 ATPase subunit 6 (ATP6) gene, partial
+            cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AF388814
+VERSION     AF388814.1
+KEYWORDS    .
+SOURCE      mitochondrion Cortinarius dulciolens
+  ORGANISM  Cortinarius dulciolens
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Agaricomycetidae; Agaricales; Cortinariaceae;
+            Cortinarius.
+REFERENCE   1  (bases 1 to 618)
+  AUTHORS   Peintner,U., Moncalvo,J.M., Moser,M.M. and Vilgalys,R.
+  TITLE     Multiple-gene phylogenies do not resolve basal relationships in
+            Cortinarius: a recent radiation?
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 618)
+  AUTHORS   Peintner,U., Moncalvo,J.M., Moser,M.M. and Vilgalys,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JUN-2001) Biology, Duke University, Biological
+            Sciences Building, Box 90338, Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..618
+                     /organism="Cortinarius dulciolens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="NZ8635"
+                     /db_xref="taxon:160469"
+     gene            <1..>618
+                     /gene="ATP6"
+     CDS             <1..>618
+                     /gene="ATP6"
+                     /codon_start=1
+                     /transl_table=4
+                     /product="ATPase subunit 6"
+                     /protein_id="AAM87724.1"
+                     /translation="FNIILTNLALYAFFIFLIVIGLHYLGNNDSKLIPNKWSISLESS
+                     FASLSSMVREQIGSQNEKYLPFIYSLFFFILIGNLISNVPYSFAVTASGIVSLGLSLT
+                     IFIGVTILALSIHGIKFFAFFIPAGTPLALVPLLVLIELISYLARAVSLGVRLFANIT
+                     AGHTLLKILSTYLFKLFTGSLLVAIITLIPFAIFLALIGLEIAVSL"
+ORIGIN      
+        1 tttaatatta tcttaacaaa tttagcttta tatgcctttt ttatattttt aattgtaata
+       61 ggtttacatt atttgggaaa taatgattct aaattaattc ctaataaatg gtctatttct
+      121 ttagagtcct catttgcaag cctaagtagt atggttagag aacaaatagg atctcaaaat
+      181 gaaaaatatt taccttttat ttattcttta tttttcttca ttttaatagg taatttaatt
+      241 tctaatgttc cttattcatt tgctgttaca gctagtggga ttgtttcatt aggtttaagt
+      301 ttaactattt ttataggtgt gactatttta gccttatcaa tacatggtat taagtttttt
+      361 gctttcttta ttcctgctgg tactccttta gctttagttc ctttattagt tttaattgaa
+      421 ttaatttctt atttagctag agctgtttca ttaggagtta gactttttgc taatatcacc
+      481 gccggacaca cactattaaa aatattatct acttatttat ttaaattatt cacaggtagc
+      541 ctattagtag ctataattac tttaattcct tttgctatat ttttagcttt aattggacta
+      601 gaaatagctg tttcttta
+//
+
+LOCUS       JX648592                 682 bp    DNA     linear   PLN 08-JAN-2015
+DEFINITION  Cortinarius dulciolens voucher PDD:68471 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JX648592
+VERSION     JX648592.1
+KEYWORDS    .
+SOURCE      Cortinarius dulciolens
+  ORGANISM  Cortinarius dulciolens
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Agaricomycetidae; Agaricales; Cortinariaceae;
+            Cortinarius.
+REFERENCE   1  (bases 1 to 682)
+  AUTHORS   Johnston,P.R. and Park,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-SEP-2012) Landcare Research, Private Bag 92170,
+            Auckland 1142, New Zealand
+FEATURES             Location/Qualifiers
+     source          1..682
+                     /organism="Cortinarius dulciolens"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PDD:68471"
+                     /db_xref="taxon:160469"
+                     /country="New Zealand"
+                     /note="type specimen;
+                     PCR_primers=fwd_name: ITS1F, rev_name: ITS4"
+     misc_RNA        <1..>682
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 28S ribosomal RNA"
+ORIGIN      
+        1 aacaaggttt ccgtaggtga acctgcggaa ggatcattat tgaaataaac ctgatgagtt
+       61 gctgctggtt ctctagggag catgtgcacg cttgtcatct ttatatctcc acctgtgcac
+      121 tttttgtagt cctggatatc tctctgaatg ctacctagca ttcaggtatg aggattgact
+      181 ttgtagtctc tccttgcatt tccaggccta tgttttttca tatacccatc ccctgtttat
+      241 agaatgtaat aaaatgggcc tttgtgccta taaaccttta tacaactttc agcaacggat
+      301 ctcttggctc tcgcatcgat gaagaacgca gcgaaatgcg ataagtaatg tgaattgcag
+      361 aattcagtga atcatcgaat ctttgaacgc accttgcgct ccttggtatt ccgaggagca
+      421 tgcctgtttg agtgtcatta atatatcaac ctcttcagat tttttgtttg tcgagtgttg
+      481 gacgtggggg ttcttttgct ggccttgagg tcagctcccc tgaaatgcat tagcagaaca
+      541 ttttgttaac ctgttcattg gtgtgataac tatctacgct attgacatgg agcaaccaag
+      601 ttcagcttcc aacagtccat tgatttggac aaatttttca ttaatgtgac ctcaaatcag
+      661 gtaggactac ccgctgaact ta
+//
+
+LOCUS       KF977697                 691 bp    DNA     linear   PLN 31-DEC-2014
+DEFINITION  Cortinarius dulciolens voucher OTA:62338 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KF977697
+VERSION     KF977697.1
+KEYWORDS    .
+SOURCE      Cortinarius dulciolens
+  ORGANISM  Cortinarius dulciolens
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Agaricomycetidae; Agaricales; Cortinariaceae;
+            Cortinarius.
+REFERENCE   1  (bases 1 to 691)
+  AUTHORS   Orlovich,D.A., Wang,X.Y., Lebel,T. and Beever,R.E.
+  TITLE     Cortinarius beeverorum, a new species of sequestrate Cortinarius
+            from New Zealand
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 691)
+  AUTHORS   Orlovich,D.A., Wang,X.Y., Lebel,T. and Beever,R.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-DEC-2013) Department of Botany, University of Otago,
+            464 Great King Street, Dunedin 9054, New Zealand
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious R6 v. 6.1.7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..691
+                     /organism="Cortinarius dulciolens"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="OTA:62338"
+                     /db_xref="taxon:160469"
+                     /country="New Zealand"
+                     /PCR_primers="fwd_name: ITS1-f, fwd_seq:
+                     cttggtcatttagaggaagtaa, rev_name: ITS4, rev_seq:
+                     tcctccgcttattgatatgc"
+                     /note="authority: E. Horak, M.M. Moser, Peintner &
+                     Vilgalys"
+     rRNA            <1..46
+                     /product="18S ribosomal RNA"
+     misc_RNA        47..288
+                     /product="internal transcribed spacer 1"
+     rRNA            289..439
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        440..651
+                     /product="internal transcribed spacer 2"
+     rRNA            652..>691
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 aagtcgtaac aaggtttccg taggtgaacc tgcggaagga tcattattga aataaacctg
+       61 atgagttgct gctggttctc tagggagcat gtgcacgctt gtcatcttta tatctccacc
+      121 tgtgcacttt ctgtagtcct ggatatctct ctgaatgcta cctagcattc aggtatgagg
+      181 attgactttg magtctctcc ttgcatttcc aggcctatgt tttttcatat acccatcccc
+      241 tgtttataga acgtaatgaa tgggcctttg tgcctataaa cctttataca actttcagca
+      301 acggatctct tggctctcgc atcgatgaag aacgcagcga aatgcgataa gtaatgtgaa
+      361 ttgcagaatt cagtgaatca tcgaatcttt gaacgcacct tgcgctcctt ggtattccga
+      421 ggagcatgcc tgtttgagtg tcattaatat atcaacctct tcagattttt tgtttgtcga
+      481 gtgttggacg tggggggttc ttttgctggc ctctgaggtc agctcccctg aaatgcatta
+      541 gcagaacatt ttgttaacct gttcattggt gtgataacta tctacgctat tgacatggag
+      601 caaccgagtt cagcttccaa cagtccattg atttggacaa atttttcatt aatgtgacct
+      661 caaatcaggt aggactaccc gctgaactta a
+//
+
+LOCUS       AF325610                 664 bp    DNA     linear   PLN 08-MAR-2002
+DEFINITION  Cortinarius dulciolens specimen-voucher Horak NZ8635 18S ribosomal
+            RNA gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   AF325610
+VERSION     AF325610.1
+KEYWORDS    .
+SOURCE      Cortinarius dulciolens
+  ORGANISM  Cortinarius dulciolens
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Agaricomycetidae; Agaricales; Cortinariaceae;
+            Cortinarius.
+REFERENCE   1  (bases 1 to 664)
+  AUTHORS   Peintner,U., Bougher,N.L., Castellano,M.A., Moncalvo,J.M.,
+            Moser,M.M., Trappe,J.M. and Vilgalys,R.
+  TITLE     Multiple origins of sequestrate fungi related to Cortinarius
+            (Cortinariaceae)
+  JOURNAL   Am. J. Bot. 88 (12), 2168-2179 (2001)
+   PUBMED   21669649
+REFERENCE   2  (bases 1 to 664)
+  AUTHORS   Peintner,U., Bougher,N.L., Castellano,M.A., Trappe,J.M.,
+            Moncalvo,J.-M. and Vilgalys,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-DEC-2000) Department of Biology, Duke University,
+            Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..664
+                     /organism="Cortinarius dulciolens"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Horak NZ8635"
+                     /db_xref="taxon:160469"
+     misc_RNA        <1..>664
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 28S ribosomal RNA"
+ORIGIN      
+        1 acctgcggaa ggatcattat tgaaataaac ctgatgagtt gctgctggtt ctctagggag
+       61 catgtgcacg cttgtcatct ttatatctcc acctgtgcac tttctgtagt cctggatatc
+      121 tctctgaatg ctacctagca ttcaggtatg aggattgact ttgcagtctc tccttgcatt
+      181 tccaggccta tgttttttca tatacccatc ccctgtttat agaacgtaat gaatgggcct
+      241 ttgtgcctat aaacctttat acaactttca gcaacggatc tcttggctct cgcatcgatg
+      301 aagaacgcag cgaaatgcga taagtaatgt gaattgcaga attcagtgaa tcatcgaatc
+      361 tttgaacgca ccttgcgctc cttggtattc cgaggagcat gcctgtttga gtgtcattaa
+      421 tatatcaacc tcttcagatt ttttgtttgt cgagtgttgg acgtgggggg ttcttttgct
+      481 ggcctctgag gtcagctccc ctgaaatgca ttagcagaac attttgttaa cctgttcatt
+      541 ggtgtgataa ctatctacgc tattgacatg gagcaaccga gttcagcttc caacagtcca
+      601 ttgatttgga caaatttttc attaatgtga cctcaaatca ggtaggacta cccgctgaac
+      661 ttaa
+//
+
+LOCUS       AY033131                 933 bp    DNA     linear   PLN 31-JUL-2002
+DEFINITION  Cortinarius dulciolens strain NZ803 large subunit ribosomal RNA
+            gene, partial sequence.
+ACCESSION   AY033131
+VERSION     AY033131.1
+KEYWORDS    .
+SOURCE      Cortinarius dulciolens
+  ORGANISM  Cortinarius dulciolens
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Agaricomycetidae; Agaricales; Cortinariaceae;
+            Cortinarius.
+REFERENCE   1  (bases 1 to 933)
+  AUTHORS   Peintner,U., Horak,E., Moser,M.M. and Vilgalys,R.
+  TITLE     Phylogeny of Rozites, Cuphocybe and Rapacea inferred from ITS and
+            LSU rDNA sequences
+  JOURNAL   Mycologia 94 (4), 620-629 (2002)
+   PUBMED   21156535
+REFERENCE   2  (bases 1 to 933)
+  AUTHORS   Peintner,U., Horak,E., Moser,M.M. and Vilgalys,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-APR-2001) Department of Biology, Duke University,
+            Science Drive, Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..933
+                     /organism="Cortinarius dulciolens"
+                     /mol_type="genomic DNA"
+                     /strain="NZ803"
+                     /db_xref="taxon:160469"
+     rRNA            <1..>933
+                     /product="large subunit ribosomal RNA"
+ORIGIN      
+        1 ttacccgctg aacttaagca tatcaataag cggaggaaaa gaaactaaca aggattcccc
+       61 tagtaactgc gagtgaaccg ggaaaagctc aaatttaaaa tctggcagtc ttttggctgt
+      121 ccgagttgta atctagagaa gcgttatccg cgctggaccg tgtacaagtc tcctggaatg
+      181 gagcgtcata gagggtgaga atcccgtctt tgacacggac tgccagggct ttgtgatgcg
+      241 ctctcaaaga gtcgagttgt ttgggaatgc agctcaaaat gggtggtaaa ttccatctaa
+      301 agctaaatat tggcgagaga ccgatagcga acaagtaccg tgagggaaag atgaaaagaa
+      361 ctttggaaag agagttaaac agtacgtgaa attgctgaaa gggaaacgct tgaagtcagt
+      421 cgcgttggcc agggatcaac cttgcttttg cttggtgtac tttctggttg acgggtcagc
+      481 atcaattttg accattggaa aaagattagg ggaatgtggc atcttcggat gtgttatagc
+      541 ccttggttgc atacaatggt tgggattgag gaactcagca cgccgcaagg ccgggttttt
+      601 taaccacgta cgtgcttagg atgctggcat aattctttaa cgaccctctt gaaacacgga
+      661 ccaaggagct aacatacctg cggatgtttg ggtggaaaac ccgagcgcgc aatgaaagtg
+      721 aaaggttgag atccctgtcg tggggagcat cgacgcccgg accagacctt ttgtgacggt
+      781 tccgcggtag agcatgtatg ttgggacccg aaagatggtg aactatgcct gaatagggtg
+      841 aagccagagg aaactctggt ggaggctcgt agcgattctg acgtgcaaat cgatcgtcaa
+      901 atttgggtat agtggcgaaa gactaatcga acc
+//
+
+LOCUS       AY033113                 612 bp    DNA     linear   PLN 31-JUL-2002
+DEFINITION  Cortinarius dulciolens strain KSCO1017 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 25S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   AY033113
+VERSION     AY033113.1
+KEYWORDS    .
+SOURCE      Cortinarius dulciolens
+  ORGANISM  Cortinarius dulciolens
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Agaricomycetidae; Agaricales; Cortinariaceae;
+            Cortinarius.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Peintner,U., Horak,E., Moser,M.M. and Vilgalys,R.
+  TITLE     Phylogeny of Rozites, Cuphocybe and Rapacea inferred from ITS and
+            LSU rDNA sequences
+  JOURNAL   Mycologia 94 (4), 620-629 (2002)
+   PUBMED   21156535
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Peintner,U., Horak,E., Moser,M.M. and Vilgalys,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-APR-2001) Department of Biology, Duke University,
+            Science Drive, Durham, NC 27708, USA
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Cortinarius dulciolens"
+                     /mol_type="genomic DNA"
+                     /strain="KSCO1017"
+                     /db_xref="taxon:160469"
+     misc_RNA        <1..>612
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 25S ribosomal RNA"
+ORIGIN      
+        1 ggatcattat tgaaataaac ctgatgagtt gctgctggtt ctctagggag catgtgcacg
+       61 cttgtcatct ttatatctcc acctgtgcac tttctgtagt cctggatatc tctctgaatg
+      121 ctacctagca ttcaggtatg aggattgact ttgcagtctc tccttgcatt tccaggccta
+      181 tgttttttca tatacccatc ccctgtttat agaacgtaat gaatgggcct ttgtgcctat
+      241 aaacctttat acaactttca gcaacggatc tcttggctct cgcatcgatg aagaacgcag
+      301 cgaaatgcga taagtaatgt gaattgcaga attcagtgaa tcatcgaatc tttgaacgca
+      361 ccttgcgctc cttggtattc cgaggagcat gcctgtttga gtgtcattaa tatatcaacc
+      421 tcttcagatt ttttgtttgt cgagtgttgg acgtgggggg ttcttttgct ggcctctgag
+      481 gtcagctccc ctgaaatgca ttagcagaac attttgttaa cctgttcatt ggtgtgccaa
+      541 ctatctacgc tattgacatg gaccaaccgt tcagctccaa cagtccattg atttgcacaa
+      601 attttttcat ta
+//
+
+LOCUS       MH023300                 690 bp    DNA     linear   PLN 31-JUL-2018
+DEFINITION  Cortinarius dulciolens voucher OTA62406 small subunit ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and large subunit ribosomal RNA gene, partial sequence.
+ACCESSION   MH023300
+VERSION     MH023300.1
+KEYWORDS    .
+SOURCE      Cortinarius dulciolens
+  ORGANISM  Cortinarius dulciolens
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Agaricomycetidae; Agaricales; Cortinariaceae;
+            Cortinarius.
+REFERENCE   1  (bases 1 to 690)
+  AUTHORS   Nilsen,A.R., Brown,C.M., Summerfield,T.C. and Orlovich,D.A.
+  TITLE     Two new species of agaricoid Cortinarius from New Zealand
+  JOURNAL   Mycol. Prog. (2018) In press
+REFERENCE   2  (bases 1 to 690)
+  AUTHORS   Nilsen,A.R. and Orlovich,D.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-MAR-2018) Botany, University of Otago, PO Box 56,
+            Dunedin 9010, New Zealand
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..690
+                     /organism="Cortinarius dulciolens"
+                     /mol_type="genomic DNA"
+                     /isolation_source="soil"
+                     /specimen_voucher="OTA62406"
+                     /db_xref="taxon:160469"
+                     /country="New Zealand"
+                     /collection_date="16-May-2013"
+     misc_RNA        <1..>690
+                     /note="contains small subunit ribosomal RNA, internal
+                     transcribed spacer 1, 5.8S ribosomal RNA, internal
+                     transcribed spacer 2, and large subunit ribosomal RNA"
+ORIGIN      
+        1 aagtcgtaac aaggtttccg taggtgaacc tgcggaagga tcattattga aataaacctg
+       61 atgagttgct gctggttctc tagggagcat gtgcacgctt gtcatcttta tatctccacc
+      121 tgtgcacttt ctgtagtcct ggatatctct ctgaatgcta cctagcattc aggtatgagg
+      181 attgactttg tagtctctcc ttgcatttcc aggcctatgt tttttcatat acccatcccc
+      241 tgtttataga atgtaataaa atgggccttt gtgcctataa acctttatac aactttcagc
+      301 aacggatctc ttggctctcg catcgatgaa gaacgcagcg aaatgcgata agtaatgtga
+      361 attgcagaat tcagtgaatc atcgaatctt tgaacgcacc ttgcgctcct tggtattccg
+      421 aggagcatgc ctgtttgagt gtcattaata tatcaacctc ttcagatttt ttgtttgtcg
+      481 agtgttggac gtgggggttc ttttgctggc cttgaggtca gctcccctga aatgcattag
+      541 cagaacattt tgttaacctg ttcattggtg tgataactat ctacgctatt gacatggagc
+      601 aaccaagttc agcttccaac agtccattga tttggacaaa tttttcatta atgtgacctc
+      661 aaatcaggta ggactacccg ctgaacttaa
+//
+
